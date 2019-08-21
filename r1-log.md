@@ -1,10 +1,18 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Kayla Williams #developingkayla]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [August, 20, 2019].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1 [8/20/19]
+    Todays coding was mostly related to changing up my portfolio. I hadnt looked back on it in a while, and the functionality is... basically non-existent when it comes to mobile friendly, which DESPERATELY needs to be changed. 
+    I realized, unfortunately, it is extremely blazé. 
+        
+    If I expected any company to look at this and recall anything about me, I would be left sorely disppointed.
 
+    So while the colors and theme are true to my style, there really isnt much of my personality. 
+    
+    I went through updating some of the code, and working on an old mock up to see which aspects I like more. Tomorrow should be an interesting one for sure! 
+    
+    Day one DONE!
 ### R1D2
