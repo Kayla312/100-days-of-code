@@ -16,3 +16,6 @@ The log of my #100DaysOfCode challenge. Started on [August, 20, 2019].
     
     Day one DONE!
 ### R1D2
+    I got caught up in the day, thought I had myself all organized, and ended up not commiting to myself, or my code. So that was a disappointment. 
+
+
